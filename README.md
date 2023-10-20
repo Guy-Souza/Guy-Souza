@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guy-Souza;
 - 👀 I’m interested in Front-End developing;
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TailWind, REACT.js;
-- 💞️ I’m looking to collaborate on everithing front-end related;
+- 💞️ I’m looking to collaborate on everything front-end related;
 - 📫 How to reach me jguylhermec.souza@gmail.com
 
 <!---
